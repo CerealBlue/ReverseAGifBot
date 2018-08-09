@@ -9,4 +9,5 @@ Imgur API Call documentation:<br>
 &nbsp;`Image_Number` - int - The total number of gifs processed till datetime<br/>
 &nbsp;`Title_of_the_Post` - str - The name of the post<br/>
 &nbsp;`File_Name` - str - The file which the gif is saved as (that is ultimately uploaded)<br/>
-&nbsp;`Link_of_the_Post` - str - The link of the post on Reddit that this gif was asked to be reversed
+&nbsp;`Link_of_the_Post` - str - The link of the post on Reddit that this gif was asked to be reversed<br/><br/>
+This bot will not be hosted as the moderators of `/r/gifs` do not allow bots.
